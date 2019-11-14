@@ -1,0 +1,95 @@
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\Basit_banka_uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.eft.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.fatura.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Havale.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.log_in.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mmenu.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paracek.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekle_form.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.transfer.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\Basit_banka_uygulamasi.csproj.GenerateResource.Cache
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dekont.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sign_in.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\bin\Debug\Bankamatik.exe.config
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\Bankamatik.TrustInfo.xml
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\Bankamatik.exe
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\Bankamatik.pdb
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\bin\Debug\Bankamatik.exe.manifest
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\bin\Debug\Bankamatik.application
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\bin\Debug\Bankamatik.exe
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\bin\Debug\Bankamatik.pdb
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\Bankamatik.exe.manifest
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\Bankamatik.application
+E:\Csharp çalışmalar\bankamatik\WindowsFormsApplication1\bin\Debug\Bankamatik.exe.config
+E:\Csharp çalışmalar\bankamatik\WindowsFormsApplication1\obj\Debug\Bankamatik.exe
+E:\Csharp çalışmalar\bankamatik\WindowsFormsApplication1\obj\Debug\Bankamatik.pdb
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\Bankamatik.exe.config
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\Bankamatik.exe.manifest
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\Bankamatik.application
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\Bankamatik.exe
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\Bankamatik.pdb
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\Basit_banka_uygulamasi.csprojAssemblyReference.cache
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dekont.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.eft.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.fatura.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Havale.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.log_in.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mmenu.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paracek.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekle_form.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sign_in.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.transfer.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\Basit_banka_uygulamasi.csproj.GenerateResource.cache
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\Basit_banka_uygulamasi.csproj.CoreCompileInputs.cache
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\Bankamatik.TrustInfo.xml
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\Bankamatik.exe.manifest
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\Bankamatik.application
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\Bankamatik.exe
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\Bankamatik.pdb
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll.config
+E:\Csharp çalışmalar\Form\bankamatik_form-master\WindowsFormsApplication1\obj\Debug\Basit_banka_uygulamasi.csproj.CopyComplete
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\Bankamatik.exe.config
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\Bankamatik.exe.manifest
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\Bankamatik.application
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\Bankamatik.exe
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\Bankamatik.pdb
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\EntityFramework.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\System.Data.SQLite.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\EntityFramework.xml
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\System.Data.SQLite.xml
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\bin\Debug\System.Data.SQLite.dll.config
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\Basit_banka_uygulamasi.csprojAssemblyReference.cache
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.dekont.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.eft.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.fatura.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.Havale.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.log_in.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.mmenu.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.paracek.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.ParaYatir.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.ekle_form.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.sign_in.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\WindowsFormsApplication1.transfer.resources
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\Basit_banka_uygulamasi.csproj.GenerateResource.cache
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\Basit_banka_uygulamasi.csproj.CoreCompileInputs.cache
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\Bankamatik.TrustInfo.xml
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\Bankamatik.exe.manifest
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\Bankamatik.application
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\Basit_banka_uygulamasi.csproj.CopyComplete
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\Bankamatik.exe
+E:\Csharp çalışmalar\Form\bankamatik_form-master\ATM uygulaması\obj\Debug\Bankamatik.pdb

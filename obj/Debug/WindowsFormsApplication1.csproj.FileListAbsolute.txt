@@ -1,0 +1,16 @@
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mmenu.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.log_in.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekle_form.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.fatura.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paracek.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.eft.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Havale.resources
+C:\Users\Fuat\Source\Repos\bankamatik\bankamatik_odev\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.transfer.resources
