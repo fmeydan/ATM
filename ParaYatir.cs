@@ -19,6 +19,10 @@ namespace WindowsFormsApplication1
         }
         private SQLiteConnection con;
         private SQLiteCommand cmd;
+        DataSet ds;
+        SQLiteDataAdapter da;
+        double tutar;
+        double bakiye;
         mmenu anamenu = new mmenu();
         private void textBox_tutar_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -46,11 +50,16 @@ namespace WindowsFormsApplication1
             
             if (!string.IsNullOrWhiteSpace(textBox_tutar.Text))
             {
-                double bakiye = Convert.ToDouble(textBox_tutar.Text);
+                tutar = Convert.ToDouble(textBox_tutar.Text);
                 con = new SQLiteConnection("Data Source=kullanicilar.db;Version=3;");
                 cmd = new SQLiteCommand(con);
                 con.Open();
-                cmd.CommandText = $@"update kullaniciBilgi set bakiye={bakiye} where aktifmi=1";
+                ds = new DataSet();
+                string CommandText = $@"select * from kullaniciBilgi where aktifmi=1";
+                da = new SQLiteDataAdapter(CommandText, con);
+                da.Fill(ds);
+                bakiye =Convert.ToDouble( ds.Tables[0].Rows[0]["bakiye"]);
+                cmd.CommandText = $@"update kullaniciBilgi set bakiye={bakiye}+{tutar} where aktifmi=1";
                 cmd.ExecuteNonQuery();
                 con.Close();
             }

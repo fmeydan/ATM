@@ -118,6 +118,7 @@
             this.sifremi_unuttum.TabIndex = 6;
             this.sifremi_unuttum.TabStop = true;
             this.sifremi_unuttum.Text = "Şifremi Unuttum";
+            this.sifremi_unuttum.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.sifremi_unuttum_LinkClicked);
             // 
             // kayit_ol
             // 

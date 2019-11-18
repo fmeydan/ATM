@@ -40,9 +40,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.Location = new System.Drawing.Point(12, 53);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(167, 15);
+            this.label1.Size = new System.Drawing.Size(173, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Yatırmak istenen tutarı giriniz:";
+            this.label1.Text = "Yatırmak istenilen tutarı giriniz:";
             // 
             // textBox_tutar
             // 

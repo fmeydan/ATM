@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bankamatik.exe" size="1664000">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bankamatik.exe" size="1671168">
       <assemblyIdentity name="Bankamatik" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>i7/fZn+rV6X5LJMBR0lkGkN2pbq8J5QExrHXBq+cbN4=</dsig:DigestValue>
+        <dsig:DigestValue>SRA4vCpXC/nUSMPj7zmujvMS+A9Mu4PzNFlGOON8iTI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

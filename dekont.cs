@@ -21,13 +21,15 @@ namespace WindowsFormsApplication1
         private void evet_buton_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Lütfen dekontunuzu almayı unutmayınız.","", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            this.Hide();
             d1.Show();
+            this.Hide();
+            
         }
 
         private void hayir_buton_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Lütfen paranızı almayı unutmayınız.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            d1.Show();
             this.Hide();
         }
     }

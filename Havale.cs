@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SQLite;
 
 namespace WindowsFormsApplication1
 {
@@ -40,11 +41,25 @@ namespace WindowsFormsApplication1
 
         private void tamam_buton_Click(object sender, EventArgs e)
         {
-            if (ekle_form.bakiye>=Convert.ToDouble(tutar_box.Text))
+            string CommandText = $@"select bakiye from kullaniciBilgi where aktifmi=1";
+            SQLiteConnection con = new SQLiteConnection("Data Source=kullanicilar.db;Version=3;");
+            SQLiteCommand cmd = new SQLiteCommand(con);
+            con.Open();
+            DataSet ds = new DataSet();
+            SQLiteDataAdapter da = new SQLiteDataAdapter(CommandText, con);
+            da.Fill(ds);
+            double mevcutBakiye = Convert.ToDouble(ds.Tables[0].Rows[0]["bakiye"]);
+            double yeniBakiye;
+            if (mevcutBakiye >= Convert.ToDouble(tutar_box.Text))
             {
-                ekle_form.bakiye -= Convert.ToDouble(tutar_box.Text);
-                this.Hide();
+                yeniBakiye = mevcutBakiye - Convert.ToDouble(tutar_box.Text);
+               
+                cmd = new SQLiteCommand($"update kullaniciBilgi set bakiye={yeniBakiye} where aktifmi=1", con);
+                cmd.ExecuteNonQuery();
+                con.Close();
                 anamenu.Show();
+                this.Hide();
+               
             }
             else
             {

@@ -25,7 +25,12 @@ namespace WindowsFormsApplication1
         SQLiteConnection con;
         SQLiteCommand cmd;
         SQLiteDataAdapter da;
-        DataSet ds = new DataSet();
+        DataSet ds = new DataSet(); //ileride veritaanından aldığımız bilgileri tutmak için dataset tanımladık.
+
+
+
+
+
         private void mmenu_Load(object sender, EventArgs e)
         {
             con = new SQLiteConnection("Data Source=kullanicilar.db;Version=3;");
@@ -33,9 +38,9 @@ namespace WindowsFormsApplication1
             con.Open();
             string CommandText = $@"select bakiye from kullaniciBilgi where aktifmi=1";
             da = new SQLiteDataAdapter(CommandText, con);
-            da.Fill(ds);
+            da.Fill(ds); //oluşturduğumuz dataset e veritabnından gelen bilgileri doldurduk.
 
-            label2.Text = ds.Tables[0].Rows[0]["bakiye"].ToString(); ;
+            label2.Text = ds.Tables[0].Rows[0]["bakiye"].ToString(); //bakiye alanımıza veritabından alıp doldurduğumuz data setten bakiye kolonunda bulunan veriyi atadık.
             con.Close();
         }
 
@@ -82,13 +87,22 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
+            con = new SQLiteConnection("Data Source=kullanicilar.db;Version=3;");
+            cmd = new SQLiteCommand(con);
+            con.Open();
+            cmd.CommandText = $@"update kullaniciBilgi set aktifmi=0";
+            cmd.ExecuteNonQuery();
+            con.Close();
+            this.Close();
             Application.Exit();
         }
 
 
 
-        ~mmenu()
+        ~mmenu()  //sınıfımızın yıkıcı metodunu oluşturduk.
         {
+            //bu metot sayesinde sınıfın kullanımı bitince veritabanına bağlanıp aktif olan kullanıcının aktifmi kolonunu 0 yapmasını sağladık. böylece ileride giriş yapacak kullanıcı ile bilgileri karışmayacak.
             con = new SQLiteConnection("Data Source=kullanicilar.db;Version=3;");
             cmd = new SQLiteCommand(con);
             con.Open();
